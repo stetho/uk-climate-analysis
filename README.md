@@ -10,7 +10,7 @@ This is not aimed at climate change deniers. Climate change is real, it is cause
 
 This project is aimed at something more insidious: the casual minimisation of climate change by people who broadly accept it's happening but consistently understate what it means. The TV weather presenters who describe record-breaking summer temperatures as the "new norm". The commentators who frame climate change as a matter of warmer holidays and remind people to stay hydrated. The well-meaning people who have absorbed the message that things are getting warmer but concluded that we're simply adjusting to a new stable state. One of the catalysts for this work are the stories in the UK news recently (late June 2026) saying how the UK has broken its June heat record three days in a row in the same tone that is used when a British person breaks the world record for balancing biscuits on their head.
 
-That framing is wrong. And it matters that it's wrong, because it implies adaptation is sufficient — that we're moving to a new normal we can plan around — when the evidence points toward something fundamentally different.
+That framing is wrong. And it matters that it's wrong, because it implies adaptation is sufficient - that we're moving to a new normal we can plan around - when the evidence points toward something fundamentally different.
 
 The data does not show a step change to a stable warmer state. It shows an accelerating trajectory. There is a significant difference between "it's going to be warmer every summer" and "it's going to be warmer every summer than it was the year before, and that rate of warming is itself increasing." The first is a new norm. The second is not.
 
