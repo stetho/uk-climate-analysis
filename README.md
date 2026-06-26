@@ -59,7 +59,7 @@ A genuine new norm would imply a higher mean but similar predictability. Year-to
 
 ### Multiple indicators are moving simultaneously
 
-Frost days are declining. Rainfall is becoming more intense — the same annual totals falling in fewer, heavier events. Sunshine hours are shifting. These are consistent signatures of a system under sustained pressure, not a system settling into a new equilibrium.
+Frost days are declining. Rainfall is becoming more intense - the same annual totals falling in fewer, heavier events. Sunshine hours are shifting. These are consistent signatures of a system under sustained pressure, not a system settling into a new equilibrium.
 
 ### The +2°C threshold arrives in the late 2030s
 
