@@ -1,3 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data — download fresh per data/raw/README.md
+data/raw/
+data/processed/
+
+# Generated outputs
+outputs/
+
+# OS
+.DS_Store
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
