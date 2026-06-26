@@ -20,7 +20,7 @@ This project makes that argument with 190 years of publicly available UK climate
 
 ## The data
 
-All data comes from the Met Office HadUK-Grid regional climate series — the same observational record the Met Office uses for operational climate monitoring.
+All data comes from the Met Office HadUK-Grid regional climate series - the same observational record the Met Office uses for operational climate monitoring.
 
 **Source:** https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-and-regional-series
 
@@ -35,7 +35,7 @@ All data comes from the Met Office HadUK-Grid regional climate series — the sa
 | `AirFrost` | Days of air frost | 1931 |
 | `Raindays1mm` | Days with rainfall ≥ 1mm | 1891 |
 
-**Coverage:** UK, England, Scotland, Wales, Northern Ireland, and nine English sub-regions — 17 geographies in total, 119 files, 280,041 data points.
+**Coverage:** UK, England, Scotland, Wales, Northern Ireland, and nine English sub-regions - 17 geographies in total, 119 files, 280,041 data points.
 
 Download instructions are in `data/raw/README.md`.
 
@@ -45,17 +45,17 @@ Download instructions are in `data/raw/README.md`.
 
 ### The warming rate has nearly tripled
 
-Across the full 141-year record, UK mean annual temperature has risen at approximately 0.12°C per decade. In the period from 1991 to 2025, the rate is 0.33°C per decade — nearly three times faster. The rolling trend analysis shows the slope rising since the 1980s and remaining elevated. Every time window fitted to the data, including the most recent 15 years, shows a statistically significant positive warming trend.
+Across the full 141-year record, UK mean annual temperature has risen at approximately 0.12°C per decade. In the period from 1991 to 2025, the rate is 0.33°C per decade - nearly three times faster. The rolling trend analysis shows the slope rising since the 1980s and remaining elevated. Every time window fitted to the data, including the most recent 15 years, shows a statistically significant positive warming trend.
 
 The slope has not flattened.
 
 ### This is not a warmer summers story
 
-All four seasons are warming. In the recent period, **winter is warming faster than summer**. Every month of the year shows a positive warming trend. No region of the UK is exempt. The "warmer summers" framing is not just incomplete — it describes the least alarming part of what is happening and ignores the rest.
+All four seasons are warming. In the recent period, **winter is warming faster than summer**. Every month of the year shows a positive warming trend. No region of the UK is exempt. The "warmer summers" framing is not just incomplete - it describes the least alarming part of what is happening and ignores the rest.
 
 ### Variability is increasing alongside the mean
 
-A genuine new norm would imply a higher mean but similar predictability. Year-to-year temperature variability has increased in recent decades. The climate is not just warmer — it is less stable. The swings are getting bigger as the average rises.
+A genuine new norm would imply a higher mean but similar predictability. Year-to-year temperature variability has increased in recent decades. The climate is not just warmer - it is less stable. The swings are getting bigger as the average rises.
 
 ### Multiple indicators are moving simultaneously
 
@@ -63,13 +63,13 @@ Frost days are declining. Rainfall is becoming more intense - the same annual to
 
 ### The +2°C threshold arrives in the late 2030s
 
-Under the current rate of warming, the UK mean annual temperature trend line crosses +2°C above its 1961–1990 baseline in the late 2030s. Individual years have already reached +1.5°C above baseline — 2022, 2023, 2024 and 2025 are all in the top five on record. The 15 warmest years in the 141-year record are almost entirely post-2000.
+Under the current rate of warming, the UK mean annual temperature trend line crosses +2°C above its 1961–1990 baseline in the late 2030s. Individual years have already reached +1.5°C above baseline - 2022, 2023, 2024 and 2025 are all in the top five on record. The 15 warmest years in the 141-year record are almost entirely post-2000.
 
 ---
 
 ## What this analysis cannot claim
 
-This is not a climate model. It does not incorporate atmospheric physics, emissions pathways, or feedback loops. The projections are extrapolations of the observed trend — statements of the form *if the current rate continues, here is where we end up* — not forecasts.
+This is not a climate model. It does not incorporate atmospheric physics, emissions pathways, or feedback loops. The projections are extrapolations of the observed trend - statements of the form *if the current rate continues, here is where we end up* - not forecasts.
 
 The attribution question (how much of the observed change is human-caused versus natural variability) has been answered comprehensively by the IPCC and by the Met Office's own UKCP18 projections. This analysis is consistent with those assessments and contributes an independently reproducible view of the observed record.
 
@@ -81,12 +81,12 @@ The attribution question (how much of the observed change is human-caused versus
 notebooks/
   01_data_acquisition.ipynb       Load all 119 files, produce clean dataset
   02_trend_analysis.ipynb         Is the rate of warming accelerating? Yes.
-  03_regional_and_seasonal.ipynb  All seasons, all regions — not just summer
+  03_regional_and_seasonal.ipynb  All seasons, all regions - not just summer
   04_projection.ipynb             What the current trajectory implies
   05_synthesis.ipynb              The complete argument in one place
 
 data/
-  raw/       119 Met Office .txt files (not committed — see data/raw/README.md)
+  raw/       119 Met Office .txt files (not committed - see data/raw/README.md)
   processed/ climate_series.csv produced by notebook 01 (not committed)
 
 outputs/     Charts generated by the notebooks
@@ -110,6 +110,6 @@ Run notebooks in order. Each reads from `data/processed/` and the first notebook
 
 ## Author
 
-Steve Thompson — [stetho.me](https://stetho.me) | [GitHub](https://github.com/stetho)
+Steve Thompson - [stetho.me](https://stetho.me) | [GitHub](https://github.com/stetho)
 
 *Data source: Met Office HadUK-Grid regional climate series, available under Open Government Licence.*
